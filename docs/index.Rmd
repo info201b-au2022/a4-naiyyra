@@ -11,7 +11,7 @@ source("../source/analysis.R")
 ```
 
 ## Abstract 
-[TODO: Include a short abstract (about 50 words)]
+This is a data set that talks about differences in populations of the prison population. It highlights the rates of different ethnicities, genders, and reason for imprisonment. 
 
 # Test (TODO: Remove before submission!!)
 ```{r echo=FALSE}
